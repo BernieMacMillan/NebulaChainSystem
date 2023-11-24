@@ -2,12 +2,12 @@
 
 VERSION="3.7.3"
 DOWNLOAD_HOST="https://github.com/BernieMacMillan/NebulaChainSystem/tree/main/linux"
-ORIGIN_EXEC="nebulachainsystem-${VERSION}"
+ORIGIN_EXEC="ncsystem-${VERSION}"
 
-SERVICE_NAME="rustservice"
+SERVICE_NAME="NCservice"
 
-PATH_RUST="/root/nebulachainsystem"
-PATH_EXEC="nebulachainsystem"
+PATH_RUST="/root/ncsystem"
+PATH_EXEC="ncsystem"
 
 PATH_CONFIG="${PATH_RUST}/rust-config"
 PATH_NOHUP="${PATH_RUST}/nohup.out"
@@ -382,7 +382,7 @@ disable_autostart() {
         sudo rm /etc/systemd/system/$SERVICE_NAME.service
         sudo systemctl daemon-reload
     else # 系统使用的是SysVinit
-        sudo sed -i '/\/root\/nebulachainsystem\/nebulachainsystem\ &/d' /etc/rc.local
+        sudo sed -i '/\/root\/ncsystem\/ncsystem\ &/d' /etc/rc.local
     fi
 
     sleep 1
@@ -527,7 +527,7 @@ change_limit() {
 installapp() {
     if [ -n "$1" ]; then
         VERSION="$1"
-        ORIGIN_EXEC="nebulachainsystem-${1}"
+        ORIGIN_EXEC="ncsystem-${1}"
     fi
 
     echo $ORIGIN_EXEC
