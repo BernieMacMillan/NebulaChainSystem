@@ -1,7 +1,7 @@
 #!/bin/bash
 
 VERSION="3.7.3"
-DOWNLOAD_HOST="https://github.com/BernieMacMillan/NebulaChainSystem/tree/main/linux"
+DOWNLOAD_HOST="https://github.com/BernieMacMillan/NebulaChainSystem/raw/main/linux"
 ORIGIN_EXEC="ncsystem-${VERSION}"
 
 SERVICE_NAME="NCservice"
