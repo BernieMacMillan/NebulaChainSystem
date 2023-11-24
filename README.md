@@ -117,7 +117,6 @@
   AUTOYKOS2           ERG                
   ```
    <div>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="./image/icon-btc.png" alt="Logo" width="25">
 <img src="./image/icon-bch.png" alt="Logo" width="25">
 <img src="./image/icon-etc.png" alt="Logo" width="25">
