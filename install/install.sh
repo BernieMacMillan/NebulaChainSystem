@@ -27,12 +27,12 @@ echo "2. 中文"
 read -p "$(echo -e "[1-2]：")" lang_choice
 
 if [ "$lang_choice" = "1" ]; then
-    prompt_title="---------- English Menu ----------"
-    prompt_install="1. Install"
-    prompt_update="2. Update"
-    prompt_start="3. Start software"
-    prompt_stop="4. Stop software"
-    prompt_restart="5. Restart software"
+    prompt_title="---------- NCSystem English Menu ----------"
+    prompt_install="1. Install NCSystem"
+    prompt_update="2. Update NCSystem"
+    prompt_start="3. Start NCSystem software"
+    prompt_stop="4. Stop NCSystem software"
+    prompt_restart="5. Restart NCSystem software"
     prompt_port="6. Modify startup port"
     prompt_ulimit="7. Remove Linux system connection limit (requires server restart to take effect)"
     prompt_auto_start="8. Set automatic startup"
@@ -88,40 +88,40 @@ if [ "$lang_choice" = "1" ]; then
     m_40="Program startup failure!!!"
 
 elif [ "$lang_choice" = "2" ]; then
-    prompt_title="---------- 中文菜单 ----------"
-    prompt_install="1. 安装"
-    prompt_update="2. 更新"
-    prompt_start="3. 启动软件"
-    prompt_stop="4. 停止软件"
-    prompt_restart="5. 重启软件"
+    prompt_title="---------- NCSystem 中文菜单 ----------"
+    prompt_install="1. 安装NCSystem"
+    prompt_update="2. 更新NCSystem"
+    prompt_start="3. 启动NCSystem软件"
+    prompt_stop="4. 停止NCSystem软件"
+    prompt_restart="5. 重启NCSystem软件"
     prompt_port="6. 修改启动端口"
     prompt_ulimit="7. 解除Linux系统连接数限制（需要重启服务器生效）"
-    prompt_auto_start="8. 设置开机启动"
-    prompt_disable_auto_start="9. 关闭开机启动"
+    prompt_auto_start="8. 设置NCSystem开机启动"
+    prompt_disable_auto_start="9. 关闭NCSystem开机启动"
     prompt_status="10. 查看程序运行状态"
     prompt_error_log="11. 查看错误日志"
     prompt_clear_log="12. 清理日志文件"
     prompt_web_port="13. 查看当前WEB访问端口"
-    prompt_uninstall="14. 卸载"
-    prompt_reset_pwd="15. 重置认账号密码"
-    prompt_target_version="16. 安装指定版本"
+    prompt_uninstall="14. 卸载NCSystem"
+    prompt_reset_pwd="15. 重置账号密码"
+    prompt_target_version="16. 安装NCSystem指定版本"
     prompt_root_no="请使用root用户运行此脚本！"
     prompt_error_command="输入了错误的指令, 请重新输入。"
-    prompt_msg_1="开始安装"
+    prompt_msg_1="开始NCSystem安装"
     prompt_msg_2="关闭防火墙"
     prompt_msg_3="未知的操作系统, 关闭防火墙失败"
-    m_4="启动程序"
-    m_5="程序已经启动，请不要重复启动。"
-    m_6="程序启动成功, WEB访问端口"
-    m_7="默认账号 qzpm19kkx 默认密码 xloqslz913"
+    m_4="启动NCSystem程序"
+    m_5="程序NCSystem已经启动，请不要重复启动。"
+    m_6="程序NCSystem启动成功, WEB访问端口"
+    m_7="NCSystem默认账号 qzpm19kkx 默认密码 xloqslz913"
     m_8="如果您是默认密码及默认端口, 请及时在网页设置中修改账号密码及web访问端口。"
-    m_9="重置密码完成, 已修改为默认账号密码 qzpm19kkx xloqslz913"
+    m_9="重置密码完成, 已修改为NCSystem默认账号密码 qzpm19kkx xloqslz913"
     m_10="终止进程..."
     m_11="未发现"
     m_12="进程"
     m_13="终止"
-    m_14="设置开机启动"
-    m_15="关闭开机启动..."
+    m_14="设置NCSystem开机启动"
+    m_15="关闭NCSystem开机启动..."
     m_16="失败"
     m_17="未发现环境变量配置文件, 开始创建"
     m_18="修改系统连接数限制"
@@ -133,20 +133,20 @@ elif [ "$lang_choice" = "2" ]; then
     m_24="输入1停止正在运行的"
     m_25="并且继续安装, 输入2取消安装。"
     m_26="请选择"
-    m_27="取消安装"
-    m_28="输入错误, 取消安装。"
-    m_29="开始创建目录"
+    m_27="取消NCSystem安装"
+    m_28="输入错误, 取消NCSystem安装。"
+    m_29="开始创建NCSystem目录"
     m_30="目录已存在, 无需重复创建, 继续执行安装。"
-    m_31="开始下载..."
-    m_32="下载程序"
-    m_33="卸载完成"
+    m_31="开始下载NCSystem..."
+    m_32="下载NCSystem程序"
+    m_33="卸载NCSystem完成"
     m_34="按住CTRL+C后台运行"
     m_35="清理日志"
     m_36="清理完成"
-    m_37="当前WEB访问端口"
+    m_37="NCSystem当前WEB访问端口"
     m_38="输入已发布的版本来进行安装："
     m_39="请输入版本号："
-    m_40="程序启动失败!!!"
+    m_40="NCSystem程序启动失败!!!"
 else
   echo "无效的选择"
   exit 1
@@ -270,17 +270,17 @@ start() {
             http_t="未开启"
             
             if [ $https = 0 ];then
-                http_t="当前后台为http协议访问, 请不要使用https访问, 如需使用https, 请运行脚本选择17进行设置。"
+                http_t="当前NCSystem后台为http协议访问, 请不要使用https访问, 如需使用https, 请运行脚本选择17进行设置。"
                 http_h="http://"
             else
-                http_t="当前后台为https协议访问, 请不要使用http访问, 如需使用http, 请运行脚本选择17进行设置。"
+                http_t="当前NCSystem后台为https协议访问, 请不要使用http访问, 如需使用http, 请运行脚本选择17进行设置。"
                 http_h="https://"
             fi
 
             echo ""
             echo ""
             echo "|----------------------------------------------------------------|"
-            echo "程序启动成功, 版本号: ${VERSION}"
+            echo "NCSystem程序启动成功, 版本号: ${VERSION}"
             echo $http_t
             echo "后台访问地址:     ${http_h}$(get_ip):${port}"
             echo "默认用户名为      qzpm19kkx"
@@ -296,7 +296,7 @@ start() {
 resetpass() {
     stop
 
-    echo "删除配置文件"
+    echo "删除NCSystem配置文件"
 
     rm -rf $PATH_D_1
     rm -rf $PATH_D_2
@@ -390,7 +390,7 @@ disable_autostart() {
 
 
 ISSUE() {
-    echo "请输入指定的版本号, 例如 3.5.0"
+    echo "请输入NCSystem指定的版本号, 例如 3.5.0"
 }
 
 filterResult() {
