@@ -84,7 +84,7 @@
    <span id="qunzu"></span>
    <img src="https://img.shields.io/badge/%F0%9F%92%8E%E8%81%8A%E5%A4%A9-%E7%BE%A4%E7%BB%84%F0%9F%92%8E-brightgreen.svg">
    <br>
-   <p>&emsp;&emsp;<img src="https://img.shields.io/badge/%F0%9F%92%8ETelegram-%E7%BE%A4%E7%BB%84%F0%9F%92%8E-brightgreen.svg">：<a href="https://t.me/NebulaChainSystem">https://t.me/NebulaChainSystem</a></p>
+   <p>&emsp;&emsp;<img src="https://img.shields.io/badge/%F0%9F%92%8ETelegram-%E7%BE%A4%E7%BB%84%F0%9F%92%8E-brightgreen.svg">：<a href="https://t.me/NebulaChainSystem" target="_blank">https://t.me/NebulaChainSystem</a></p>
    <p>&emsp;&emsp;程序在使用过程中，遇到任何问题请加入群组请求帮助！</p>
    <br>
    </td>
