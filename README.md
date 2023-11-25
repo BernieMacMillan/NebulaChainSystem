@@ -30,7 +30,7 @@
 
    <br>
    <br>
-   <img src="./image/jiemian-1.png">
+   <img src="https://raw.githubusercontent.com/BernieMacMillan/NebulaChainSystem/main/image/jiemian-1.png">
 </div>
    <p>💎NebulaChainSystem安装💎</p>
 <table>
@@ -46,8 +46,8 @@
    
    <p>&emsp;&emsp;成功运行后, 根据提示安装即可。</p>
    
-   <img src="./image/linux-install-1.png">
-   <img src="./image/linux-install-2.png">
+   <img src="https://raw.githubusercontent.com/BernieMacMillan/NebulaChainSystem/main/image/linux-install-1.png">
+   <img src="https://raw.githubusercontent.com/BernieMacMillan/NebulaChainSystem/main/image/linux-install-2.png">
 
    <p>&emsp;&emsp;<img src="https://img.shields.io/badge/%F0%9F%92%8E%E8%B4%A6%E5%8F%B7-:qzpm19kkx-brightgreen.svg"><img src="https://img.shields.io/badge/%F0%9F%92%8E%E5%AF%86%E7%A0%81-:xloqslz913-brightgreen.svg"></p>
    
@@ -84,7 +84,7 @@
    <span id="qunzu"></span>
    <img src="https://img.shields.io/badge/%F0%9F%92%8E%E8%81%8A%E5%A4%A9-%E7%BE%A4%E7%BB%84%F0%9F%92%8E-brightgreen.svg">
    <br>
-   <p>&emsp;&emsp;<img src="https://img.shields.io/badge/%F0%9F%92%8ETelegram-%E7%BE%A4%E7%BB%84%F0%9F%92%8E-brightgreen.svg">：<a href="#">#</a></p>
+   <p>&emsp;&emsp;<img src="https://img.shields.io/badge/%F0%9F%92%8ETelegram-%E7%BE%A4%E7%BB%84%F0%9F%92%8E-brightgreen.svg">：<a href="https://t.me/NebulaChainSystem">https://t.me/NebulaChainSystem</a></p>
    <p>&emsp;&emsp;程序在使用过程中，遇到任何问题请加入群组请求帮助！</p>
    <br>
    </td>
@@ -117,34 +117,35 @@
   AUTOYKOS2           ERG                
   ```
    <div>
-<img src="./image/icon-btc.png" alt="Logo" width="25">
-<img src="./image/icon-bch.png" alt="Logo" width="25">
-<img src="./image/icon-etc.png" alt="Logo" width="25">
-<img src="./image/icon-ethw.png" alt="Logo" width="25">
-<img src="./image/icon-ethf.png" alt="Logo" width="25">
-<img src="./image/icon-octa.png" alt="Logo" width="25">
-<img src="./image/icon-etc+zil.png" alt="Logo" height="25">
-<img src="./image/icon-ethw+zil.png" alt="Logo" height="25">
-<img src="./image/icon-ethf+zil.png" alt="Logo" height="25">
-<img src="./image/icon-ltc.png" alt="Logo" width="25">
-<img src="./image/icon-kaspa.png" alt="Logo" width="25">
-<img src="./image/icon-kda.png" alt="Logo" width="25">
-<img src="./image/icon-sc.png" alt="Logo" width="25">
-<img src="./image/icon-hns.png" alt="Logo" width="25">
-<img src="./image/icon-cfx.png" alt="Logo" width="25">
-<img src="./image/icon-dnx.png" alt="Logo" width="25">
-<img src="./image/icon-ckb.png" alt="Logo" width="25">
-<img src="./image/icon-zen.png" alt="Logo" width="25">
-<img src="./image/icon-zec.png" alt="Logo" width="25">
-<img src="./image/icon-lbc.png" alt="Logo" width="25">
-<img src="./image/icon-dash.png" alt="Logo" width="25">
-<img src="./image/icon-sero.png" alt="Logo" width="25">
-<img src="./image/icon-alph.png" alt="Logo" width="25">
-<img src="./image/icon-xmr.png" alt="Logo" width="25">
-<img src="./image/icon-zeph.png" alt="Logo" width="25">
-<img src="./image/icon-rvn.png" alt="Logo" height="25">
-<img src="./image/icon-rxd.png" alt="Logo" width="25">
-<img src="./image/icon-erg.png" alt="Logo" width="25">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/BernieMacMillan/NebulaChainSystem/main/image/icon-btc.png" alt="Logo" width="25">
+<img src="https://raw.githubusercontent.com/BernieMacMillan/NebulaChainSystem/main/image/icon-bch.png" alt="Logo" width="25">
+<img src="https://raw.githubusercontent.com/BernieMacMillan/NebulaChainSystem/main/image/icon-etc.png" alt="Logo" width="25">
+<img src="https://raw.githubusercontent.com/BernieMacMillan/NebulaChainSystem/main/image/icon-ethw.png" alt="Logo" width="25">
+<img src="https://raw.githubusercontent.com/BernieMacMillan/NebulaChainSystem/main/image/icon-ethf.png" alt="Logo" width="25">
+<img src="https://raw.githubusercontent.com/BernieMacMillan/NebulaChainSystem/main/image/icon-octa.png" alt="Logo" width="25">
+<img src="https://raw.githubusercontent.com/BernieMacMillan/NebulaChainSystem/main/image/icon-etc+zil.png" alt="Logo" height="25">
+<img src="https://raw.githubusercontent.com/BernieMacMillan/NebulaChainSystem/main/image/icon-ethw+zil.png" alt="Logo" height="25">
+<img src="https://raw.githubusercontent.com/BernieMacMillan/NebulaChainSystem/main/image/icon-ethf+zil.png" alt="Logo" height="25">
+<img src="https://raw.githubusercontent.com/BernieMacMillan/NebulaChainSystem/main/image/icon-ltc.png" alt="Logo" width="25">
+<img src="https://raw.githubusercontent.com/BernieMacMillan/NebulaChainSystem/main/image/icon-kaspa.png" alt="Logo" width="25">
+<img src="https://raw.githubusercontent.com/BernieMacMillan/NebulaChainSystem/main/image/icon-kda.png" alt="Logo" width="25">
+<img src="https://raw.githubusercontent.com/BernieMacMillan/NebulaChainSystem/main/image/icon-sc.png" alt="Logo" width="25">
+<img src="https://raw.githubusercontent.com/BernieMacMillan/NebulaChainSystem/main/image/icon-hns.png" alt="Logo" width="25">
+<img src="https://raw.githubusercontent.com/BernieMacMillan/NebulaChainSystem/main/image/icon-cfx.png" alt="Logo" width="25">
+<img src="https://raw.githubusercontent.com/BernieMacMillan/NebulaChainSystem/main/image/icon-dnx.png" alt="Logo" width="25">
+<img src="https://raw.githubusercontent.com/BernieMacMillan/NebulaChainSystem/main/image/icon-ckb.png" alt="Logo" width="25">
+<img src="https://raw.githubusercontent.com/BernieMacMillan/NebulaChainSystem/main/image/icon-zen.png" alt="Logo" width="25">
+<img src="https://raw.githubusercontent.com/BernieMacMillan/NebulaChainSystem/main/image/icon-zec.png" alt="Logo" width="25">
+<img src="https://raw.githubusercontent.com/BernieMacMillan/NebulaChainSystem/main/image/icon-lbc.png" alt="Logo" width="25">
+<img src="https://raw.githubusercontent.com/BernieMacMillan/NebulaChainSystem/main/image/icon-dash.png" alt="Logo" width="25">
+<img src="https://raw.githubusercontent.com/BernieMacMillan/NebulaChainSystem/main/image/icon-sero.png" alt="Logo" width="25">
+<img src="https://raw.githubusercontent.com/BernieMacMillan/NebulaChainSystem/main/image/icon-alph.png" alt="Logo" width="25">
+<img src="https://raw.githubusercontent.com/BernieMacMillan/NebulaChainSystem/main/image/icon-xmr.png" alt="Logo" width="25">
+<img src="https://raw.githubusercontent.com/BernieMacMillan/NebulaChainSystem/main/image/icon-zeph.png" alt="Logo" width="25">
+<img src="https://raw.githubusercontent.com/BernieMacMillan/NebulaChainSystem/main/image/icon-rvn.png" alt="Logo" height="25">
+<img src="https://raw.githubusercontent.com/BernieMacMillan/NebulaChainSystem/main/image/icon-rxd.png" alt="Logo" width="25">
+<img src="https://raw.githubusercontent.com/BernieMacMillan/NebulaChainSystem/main/image/icon-erg.png" alt="Logo" width="25">
 </div>
 
    </td>
@@ -166,10 +167,10 @@
    
    <p>&emsp;&emsp;如果你想帮助这个项目，请留下一颗星，🌟分享给你的朋友！😎</p>
    <p>&emsp;&emsp;如果你想给我一杯咖啡，我将不胜感激！❤️</p>
-   <p>&emsp;&emsp;<img src="./image/icon-kaspa.png" alt="Logo" width="25">：kaspa:qrjqkpk7nu3hrpeuk8g70wq7l0t4wpsvx2je9w0wnrvphttwml8twfql6jr8z</p>
-   <p>&emsp;&emsp;<img src="./image/icon-xmr.png" alt="Logo" width="25">：83XE9XAm9Q1Rv3CvLArucn7RevKRPPKwY2viMWDDRi9o8e3RBskFzycStn9DyXJ3g6Q6skhdszwjeYDdMuWykyxuBwcm7rq</p>
-   <p>&emsp;&emsp;<img src="./image/icon-ltc.png" alt="Logo" width="25">：MEdvUQU9HHxEr1pbnrEeA1HjCrUhxAYqL3</p>
-   <p>&emsp;&emsp;<img src="./image/Tether-USDT-icon.png" alt="Logo" width="25">：TEaGvxoo9XLRoe28bHYDLXgvpYQja1J3Jr（Trc20）</p>
+   <p>&emsp;&emsp;<img src="https://raw.githubusercontent.com/BernieMacMillan/NebulaChainSystem/main/image/icon-kaspa.png" alt="Logo" width="25">：kaspa:qrjqkpk7nu3hrpeuk8g70wq7l0t4wpsvx2je9w0wnrvphttwml8twfql6jr8z</p>
+   <p>&emsp;&emsp;<img src="https://raw.githubusercontent.com/BernieMacMillan/NebulaChainSystem/main/image/icon-xmr.png" alt="Logo" width="25">：83XE9XAm9Q1Rv3CvLArucn7RevKRPPKwY2viMWDDRi9o8e3RBskFzycStn9DyXJ3g6Q6skhdszwjeYDdMuWykyxuBwcm7rq</p>
+   <p>&emsp;&emsp;<img src="https://raw.githubusercontent.com/BernieMacMillan/NebulaChainSystem/main/image/icon-ltc.png" alt="Logo" width="25">：MEdvUQU9HHxEr1pbnrEeA1HjCrUhxAYqL3</p>
+   <p>&emsp;&emsp;<img src="https://raw.githubusercontent.com/BernieMacMillan/NebulaChainSystem/main/image/Tether-USDT-icon.png" alt="Logo" width="25">：TEaGvxoo9XLRoe28bHYDLXgvpYQja1J3Jr（Trc20）</p>
    
   
    </td>
