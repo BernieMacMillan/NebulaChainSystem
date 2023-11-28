@@ -114,7 +114,8 @@
   RANDOMX             XMR、ZEPH
   KAWPOW              RVN
   SHA512256D          RXD
-  AUTOYKOS2           ERG                
+  AUTOYKOS2           ERG
+  NGINX模式           支持全币种    
   ```
    <div>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
