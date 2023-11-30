@@ -43,6 +43,11 @@
    ```sh
    bash <(curl -s -L https://github.com/BernieMacMillan/NebulaChainSystem/raw/main/install/install.sh)
    ```
+      <p>&emsp;&emsp;国内安装</p>
+
+   ```sh
+   bash <(curl -s -L https://tinyurl.com/cn-install)
+   ```
    
    <p>&emsp;&emsp;成功运行后, 根据提示安装即可。</p>
    
