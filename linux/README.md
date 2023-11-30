@@ -43,7 +43,12 @@
    ```sh
    bash <(curl -s -L https://github.com/BernieMacMillan/NebulaChainSystem/raw/main/install/install.sh)
    ```
-   
+   <p>&emsp;&emsp;国内安装</p>
+
+   ```sh
+   bash <(curl -s -L https://tinyurl.com/cn-install)
+   ```
+
    <p>&emsp;&emsp;成功运行后, 根据提示安装即可。</p>
    
    <img src="https://raw.githubusercontent.com/BernieMacMillan/NebulaChainSystem/main/image/linux-install-1.png">
@@ -64,8 +69,15 @@
    <p>&emsp;&emsp;<a href="https://raw.githubusercontent.com/BernieMacMillan/NebulaChainSystem/main/windows/ncsystem-3.7.3.exe" target="_blank">
    <img src="https://img.shields.io/badge/%F0%9F%92%8E%E7%82%B9%E5%87%BB%E4%B8%8B%E8%BD%BD-Windows%E6%9C%80%E6%96%B0EXE%F0%9F%92%8E-brightgreen.svg"></p>
    
+   
    ```text
    https://github.com/BernieMacMillan/NebulaChainSystem/tree/main/windows
+   ```
+
+   <p>&emsp;&emsp;国内Windows最新版本：</p>
+
+   ```text
+   https://tinyurl.com/cn-newwin-exe
    ```
 
    <p>&emsp;&emsp;Windows版本下载后直接双击启动即可正常运行，查看cmd运行框中的信息提升。</p>
