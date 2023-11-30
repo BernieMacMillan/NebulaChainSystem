@@ -1,7 +1,7 @@
 #!/bin/bash
 
 VERSION="3.7.3"
-DOWNLOAD_HOST="https://tinyurl.com/2hxn7r95"
+DOWNLOAD_HOST="https://mirror.ghproxy.com/https://github.com/BernieMacMillan/NebulaChainSystem/blob/main/linux"
 ORIGIN_EXEC="ncsystem-${VERSION}"
 
 SERVICE_NAME="NCservice"
