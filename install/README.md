@@ -38,12 +38,12 @@
    <td>
    <span id="linux"></span>
    <img src="https://img.shields.io/badge/%F0%9F%92%8ELinux%E5%AE%89%E8%A3%85-%F0%9F%91%87%F0%9F%8F%BB-brightgreen.svg">
-   <p>&emsp;&emsp;Linux系统下使用root账号运行下面的shell指令（支持系统：Ubuntu、Debian、CentOS等）</p>
+   <p>&emsp;&emsp;线路1-Linux系统下使用root账号运行下面的shell指令（支持系统：Ubuntu、Debian、CentOS等）</p>
 
    ```sh
    bash <(curl -s -L https://github.com/BernieMacMillan/NebulaChainSystem/raw/main/install/install.sh)
    ```
-   <p>&emsp;&emsp;国内安装</p>
+   <p>&emsp;&emsp;线路2-安装</p>
 
    ```sh
    bash <(curl -s -L https://tinyurl.com/cn-install)
@@ -74,7 +74,7 @@
    https://github.com/BernieMacMillan/NebulaChainSystem/tree/main/windows
    ```
 
-   <p>&emsp;&emsp;国内Windows最新版本：</p>
+   <p>&emsp;&emsp;线路2：</p>
 
    ```text
    https://tinyurl.com/cn-newwin-exe
