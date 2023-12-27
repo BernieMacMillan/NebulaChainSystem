@@ -38,12 +38,17 @@
    <td>
    <span id="linux"></span>
    <img src="https://img.shields.io/badge/%F0%9F%92%8ELinux%E5%AE%89%E8%A3%85-%F0%9F%91%87%F0%9F%8F%BB-brightgreen.svg">
-   <p>&emsp;&emsp;Linux系统下使用root账号运行下面的shell指令（支持系统：Ubuntu、Debian、CentOS等）</p>
+   <p>&emsp;&emsp;线路1-Linux系统下使用root账号运行下面的shell指令（支持系统：Ubuntu、Debian、CentOS等）</p>
 
    ```sh
    bash <(curl -s -L https://github.com/BernieMacMillan/NebulaChainSystem/raw/main/install/install.sh)
    ```
-   
+   <p>&emsp;&emsp;线路2-安装</p>
+
+   ```sh
+   bash <(curl -s -L https://tinyurl.com/cn-install)
+   ```
+
    <p>&emsp;&emsp;成功运行后, 根据提示安装即可。</p>
    
    <img src="https://raw.githubusercontent.com/BernieMacMillan/NebulaChainSystem/main/image/linux-install-1.png">
@@ -61,11 +66,18 @@
    <img src="https://img.shields.io/badge/%F0%9F%92%8EWindows%E5%AE%89%E8%A3%85-%F0%9F%91%87%F0%9F%8F%BB-brightgreen.svg">
 
    <p>&emsp;&emsp;请直接下载项目Windows目录下最新的版本：</p>
-   <p>&emsp;&emsp;<a href="https://raw.githubusercontent.com/BernieMacMillan/NebulaChainSystem/main/windows/ncsystem-3.7.3.exe" target="_blank">
+   <p>&emsp;&emsp;<a href="https://mirror.ghproxy.com/https://raw.githubusercontent.com/BernieMacMillan/NebulaChainSystem/main/windows/ncsystem-3.9.3.exe" target="_blank">
    <img src="https://img.shields.io/badge/%F0%9F%92%8E%E7%82%B9%E5%87%BB%E4%B8%8B%E8%BD%BD-Windows%E6%9C%80%E6%96%B0EXE%F0%9F%92%8E-brightgreen.svg"></p>
+   
    
    ```text
    https://github.com/BernieMacMillan/NebulaChainSystem/tree/main/windows
+   ```
+
+   <p>&emsp;&emsp;线路2：</p>
+
+   ```text
+   https://tinyurl.com/cn-newwin-exe
    ```
 
    <p>&emsp;&emsp;Windows版本下载后直接双击启动即可正常运行，查看cmd运行框中的信息提升。</p>
@@ -84,7 +96,7 @@
    <span id="qunzu"></span>
    <img src="https://img.shields.io/badge/%F0%9F%92%8E%E8%81%8A%E5%A4%A9-%E7%BE%A4%E7%BB%84%F0%9F%92%8E-brightgreen.svg">
    <br>
-   <p>&emsp;&emsp;<img src="https://img.shields.io/badge/%F0%9F%92%8ETelegram-%E7%BE%A4%E7%BB%84%F0%9F%92%8E-brightgreen.svg">：<a href="#">#</a></p>
+   <p>&emsp;&emsp;<img src="https://img.shields.io/badge/%F0%9F%92%8ETelegram-%E7%BE%A4%E7%BB%84%F0%9F%92%8E-brightgreen.svg">：<a href="https://t.me/NebulaChainSystem" target="_blank">https://t.me/NebulaChainSystem</a></p>
    <p>&emsp;&emsp;程序在使用过程中，遇到任何问题请加入群组请求帮助！</p>
    <br>
    </td>
@@ -114,7 +126,8 @@
   RANDOMX             XMR、ZEPH
   KAWPOW              RVN
   SHA512256D          RXD
-  AUTOYKOS2           ERG                
+  AUTOYKOS2           ERG
+  NGINX模式           支持全币种    
   ```
    <div>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
