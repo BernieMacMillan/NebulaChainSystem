@@ -5,7 +5,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=NebulaChainSystem-%E5%85%A8%E5%B8%81%E7%A7%8D%E7%9F%BF%E6%B1%A0%E5%8A%A0%E5%AF%86%E7%B3%BB%E7%BB%9F)](https://git.io/typing-svg)
 
-<p>&emsp;&emsp;NebulaChainSystem-全币种矿池加密系统,基于RUST编写，性能极高，算法独家升级，服务费平稳0算力损耗，Web后台实时查看服务费情况，支持本地部署混淆加密客户端，Web后台访问。Web界面操作，简单易用，一键安装，小白可以轻松上手。开机自启动，进程守护运行，自动调整连接数限制。这是一款免费的程序软件，不收取任何的费用，仅需要终端设备计算能力的0.2%作为开发服务费。</p>
+<p>&emsp;&emsp;NebulaChainSystem-全币种矿池加密系统,基于RUST编写，性能极高，算法独家升级，服务费平稳0算力损耗，Web后台实时查看服务费情况，支持本地部署混淆加密客户端，Web后台访问。Web界面操作，简单易用，一键安装，小白可以轻松上手。开机自启动，进程守护运行，自动调整连接数限制。这是一款免费的程序软件，不收取任何的费用，仅需要终端设备计算能力的0.02%作为开发服务费。</p>
 <br>
 
    <a href="https://github.com/BernieMacMillan/NebulaChainSystem" target="_blank">
@@ -66,7 +66,7 @@
    <img src="https://img.shields.io/badge/%F0%9F%92%8EWindows%E5%AE%89%E8%A3%85-%F0%9F%91%87%F0%9F%8F%BB-brightgreen.svg">
 
    <p>&emsp;&emsp;请直接下载项目Windows目录下最新的版本：</p>
-   <p>&emsp;&emsp;<a href="https://mirror.ghproxy.com/https://raw.githubusercontent.com/BernieMacMillan/NebulaChainSystem/main/windows/ncsystem-3.9.6.exe" target="_blank">
+   <p>&emsp;&emsp;<a href="https://mirror.ghproxy.com/https://raw.githubusercontent.com/BernieMacMillan/NebulaChainSystem/main/windows/ncsystem-3.9.7.exe" target="_blank">
    <img src="https://img.shields.io/badge/%F0%9F%92%8E%E7%82%B9%E5%87%BB%E4%B8%8B%E8%BD%BD-Windows%E6%9C%80%E6%96%B0EXE%F0%9F%92%8E-brightgreen.svg"></p>
    
    
@@ -77,7 +77,7 @@
    <p>&emsp;&emsp;线路2：</p>
 
    ```text
-   https://mirror.ghproxy.com/https://raw.githubusercontent.com/BernieMacMillan/NebulaChainSystem/main/windows/ncsystem-3.9.6.exe
+   https://mirror.ghproxy.com/https://raw.githubusercontent.com/BernieMacMillan/NebulaChainSystem/main/windows/ncsystem-3.9.7.exe
    ```
 
    <p>&emsp;&emsp;Windows版本下载后直接双击启动即可正常运行，查看cmd运行框中的信息提升。</p>
