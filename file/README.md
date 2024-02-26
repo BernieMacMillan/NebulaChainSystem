@@ -5,7 +5,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=NebulaChainSystem-%E5%85%A8%E5%B8%81%E7%A7%8D%E7%9F%BF%E6%B1%A0%E5%8A%A0%E5%AF%86%E7%B3%BB%E7%BB%9F)](https://git.io/typing-svg)
 
-<p>&emsp;&emsp;NebulaChainSystem-全币种矿池加密系统,基于RUST编写，性能极高，算法独家升级，服务费平稳0算力损耗，Web后台实时查看服务费情况，支持本地部署混淆加密客户端，Web后台访问。Web界面操作，简单易用，一键安装，小白可以轻松上手。开机自启动，进程守护运行，自动调整连接数限制。这是一款免费的程序软件，不收取任何的费用，仅需要终端设备计算能力的0.2%作为开发服务费。</p>
+<p>&emsp;&emsp;NebulaChainSystem-全币种矿池加密系统,基于RUST编写，性能极高，算法独家升级，服务费平稳0算力损耗，Web后台实时查看服务费情况，支持本地部署混淆加密客户端，Web后台访问。Web界面操作，简单易用，一键安装，小白可以轻松上手。开机自启动，进程守护运行，自动调整连接数限制。这是一款免费的程序软件，不收取任何的费用，仅需要终端设备计算能力的0.02%作为开发服务费。</p>
 <br>
 
    <a href="https://github.com/BernieMacMillan/NebulaChainSystem" target="_blank">
