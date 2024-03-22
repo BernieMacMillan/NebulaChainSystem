@@ -46,7 +46,7 @@
    <p>&emsp;&emsp;线路2-安装</p>
 
    ```sh
-   bash <(curl -s -L https://tinyurl.com/cn-install)
+   bash <(curl -s -L https://mirror.ghproxy.com/https://github.com/BernieMacMillan/NebulaChainSystem/raw/main/install/install.sh)
    ```
 
    <p>&emsp;&emsp;成功运行后, 根据提示安装即可。</p>
