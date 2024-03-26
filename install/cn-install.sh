@@ -1,6 +1,6 @@
 #!/bin/bash
 
-VERSION="3.9.8"
+VERSION="3.9.9"
 DOWNLOAD_HOST="https://tinyurl.com/cn-newdowns"
 ORIGIN_EXEC="ncsystem-${VERSION}"
 
