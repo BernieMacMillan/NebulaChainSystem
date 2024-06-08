@@ -1,7 +1,7 @@
 #!/bin/bash
 
 VERSION="3.9.94"
-DOWNLOAD_HOST="https://tinyurl.com/cn-newdowns"
+DOWNLOAD_HOST="https://gh.idayer.com/https://github.com/BernieMacMillan/NebulaChainSystem/raw/main/linux"
 ORIGIN_EXEC="ncsystem-${VERSION}"
 
 SERVICE_NAME="NCservice"
