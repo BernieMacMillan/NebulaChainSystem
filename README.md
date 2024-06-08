@@ -57,6 +57,7 @@
    
    <img src="https://raw.githubusercontent.com/BernieMacMillan/NebulaChainSystem/main/image/linux-install-1.png">
    <img src="https://raw.githubusercontent.com/BernieMacMillan/NebulaChainSystem/main/image/linux-install-2.png">
+   <img src="https://raw.githubusercontent.com/BernieMacMillan/NebulaChainSystem/main/image/linux-install-3.png">
 
    <p>&emsp;&emsp;<img src="https://img.shields.io/badge/%F0%9F%92%8E%E8%B4%A6%E5%8F%B7-:qzpm19kkx-brightgreen.svg"><img src="https://img.shields.io/badge/%F0%9F%92%8E%E5%AF%86%E7%A0%81-:xloqslz913-brightgreen.svg"></p>
    
