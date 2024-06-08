@@ -390,7 +390,7 @@ disable_autostart() {
 
 
 ISSUE() {
-    echo "请输入NCSystem指定的版本号, 例如 3.5.0"
+    echo "请输入NCS miner指定的版本号, 例如 3.5.0"
 }
 
 filterResult() {
