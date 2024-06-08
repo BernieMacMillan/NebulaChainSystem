@@ -49,6 +49,10 @@
    bash <(curl -s -L https://gh-proxy.com/https://github.com/BernieMacMillan/NebulaChainSystem/raw/main/install/install.sh)
    ```
 
+   ```sh
+   bash <(curl -s -L https://gh.idayer.com/https://github.com/BernieMacMillan/NebulaChainSystem/raw/main/install/install.sh)
+   ```
+
    <p>&emsp;&emsp;成功运行后, 根据提示安装即可。</p>
    
    <img src="https://raw.githubusercontent.com/BernieMacMillan/NebulaChainSystem/main/image/linux-install-1.png">
@@ -78,6 +82,10 @@
 
    ```text
    https://gh-proxy.com/https://raw.githubusercontent.com/BernieMacMillan/NebulaChainSystem/main/windows/ncsystem-3.9.94.exe
+   ```
+
+   ```text
+   https://gh.idayer.com/https://raw.githubusercontent.com/BernieMacMillan/NebulaChainSystem/main/windows/ncsystem-3.9.94.exe
    ```
 
    <p>&emsp;&emsp;Windows版本下载后直接双击启动即可正常运行，查看cmd运行框中的信息提升。</p>
