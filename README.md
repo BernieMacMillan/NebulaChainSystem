@@ -55,7 +55,7 @@
 
    <p>&emsp;&emsp;成功运行后, 根据提示安装即可。</p>
    
-   <img src="https://raw.githubusercontent.com/BernieMacMillan/NebulaChainSystem/main/image/linux-install-1.png">
+
    <img src="https://raw.githubusercontent.com/BernieMacMillan/NebulaChainSystem/main/image/linux-install-2.png">
    <img src="https://raw.githubusercontent.com/BernieMacMillan/NebulaChainSystem/main/image/linux-install-3.png">
 
