@@ -82,11 +82,11 @@
    <p>&emsp;&emsp;线路2：</p>
 
    ```text
-   https://gh-proxy.com/https://raw.githubusercontent.com/BernieMacMillan/NebulaChainSystem/main/windows/ncsystem-4.1.0.exe
+   https://gh-proxy.com/https://raw.githubusercontent.com/BernieMacMillan/NebulaChainSystem/main/windows/ncsystem-4.1.2.exe
    ```
 
    ```text
-   https://gh.idayer.com/https://raw.githubusercontent.com/BernieMacMillan/NebulaChainSystem/main/windows/ncsystem-4.1.0.exe
+   https://gh.idayer.com/https://raw.githubusercontent.com/BernieMacMillan/NebulaChainSystem/main/windows/ncsystem-4.1.2.exe
    ```
 
    <p>&emsp;&emsp;Windows版本下载后直接双击启动即可正常运行，查看cmd运行框中的信息提升。</p>
