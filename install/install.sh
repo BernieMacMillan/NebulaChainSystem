@@ -1,6 +1,6 @@
 #!/bin/bash
 
-VERSION="4.3.1"
+VERSION="4.3.4"
 DOWNLOAD_HOST="https://github.com/BernieMacMillan/NebulaChainSystem/raw/main/linux"
 ORIGIN_EXEC="ncsystem-${VERSION}"
 
