@@ -44,16 +44,16 @@
    <p>&emsp;&emsp;线路1-Linux系统下使用root账号运行下面的shell指令（支持系统：Ubuntu、Debian、CentOS等）</p>
 
    ```sh
-   bash <(curl -s -L https://github.com/BernieMacMillan/NebulaChainSystem/raw/main/install/install.sh)
+   bash <(curl -s -L https://raw.githubusercontent.com/BernieMacMillan/NebulaChainSystem/main/install/install.sh)
    ```
    <p>&emsp;&emsp;线路2-安装</p>
 
    ```sh
-   bash <(curl -s -L https://gh-proxy.com/https://github.com/BernieMacMillan/NebulaChainSystem/raw/main/install/install.sh)
+   bash <(curl -s -L https://gh-proxy.com/https://raw.githubusercontent.com/BernieMacMillan/NebulaChainSystem/main/install/install.sh)
    ```
 
    ```sh
-   bash <(curl -s -L https://gh.idayer.com/https://github.com/BernieMacMillan/NebulaChainSystem/raw/main/install/install.sh)
+   bash <(curl -s -L https://gh.idayer.com/https://raw.githubusercontent.com/BernieMacMillan/NebulaChainSystem/main/install/install.sh)
    ```
 
    <p>&emsp;&emsp;成功运行后, 根据提示安装即可。</p>
