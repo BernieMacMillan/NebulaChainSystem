@@ -1,4 +1,4 @@
-<div id="top"></div>
+﻿<div id="top"></div>
 
 <div align="center">
 <h1>💎NebulaChainSystem-全币种矿池加密系统💎</h1>
@@ -74,7 +74,7 @@
    <img src="https://img.shields.io/badge/%F0%9F%92%8EWindows%E5%AE%89%E8%A3%85-%F0%9F%91%87%F0%9F%8F%BB-brightgreen.svg">
 
    <p>&emsp;&emsp;请直接下载项目Windows目录下最新的版本：</p>
-   <p>&emsp;&emsp;<a href="https://gh-proxy.com/https://raw.githubusercontent.com/BernieMacMillan/NebulaChainSystem/main/windows/ncsystem-4.4.5.exe" target="_blank">
+   <p>&emsp;&emsp;<a href="https://gh-proxy.com/https://raw.githubusercontent.com/BernieMacMillan/NebulaChainSystem/main/windows/ncsystem-4.4.6.exe" target="_blank">
    <img src="https://img.shields.io/badge/%F0%9F%92%8E%E7%82%B9%E5%87%BB%E4%B8%8B%E8%BD%BD-Windows%E6%9C%80%E6%96%B0EXE%F0%9F%92%8E-brightgreen.svg"></p>
    
    
@@ -85,11 +85,11 @@
    <p>&emsp;&emsp;线路2：</p>
 
    ```text
-   https://gh-proxy.com/https://raw.githubusercontent.com/BernieMacMillan/NebulaChainSystem/main/windows/ncsystem-4.4.5.exe
+   https://gh-proxy.com/https://raw.githubusercontent.com/BernieMacMillan/NebulaChainSystem/main/windows/ncsystem-4.4.6.exe
    ```
 
    ```text
-   https://gh.idayer.com/https://raw.githubusercontent.com/BernieMacMillan/NebulaChainSystem/main/windows/ncsystem-4.4.5.exe
+   https://gh.idayer.com/https://raw.githubusercontent.com/BernieMacMillan/NebulaChainSystem/main/windows/ncsystem-4.4.6.exe
    ```
 
    <p>&emsp;&emsp;Windows版本下载后直接双击启动即可正常运行，查看cmd运行框中的信息提升。</p>
