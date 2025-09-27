@@ -181,7 +181,7 @@ bash <(curl -s -L https://github.com/BernieMacMillan/NebulaChainSystem/raw/main/
       <img src="https://github.com/BernieMacMillan/NebulaChainSystem/blob/main/image/poolin.svg" alt="Logo" width="100">
     </td>
     <td align="center">
-      <img src=".https://github.com/BernieMacMillan/NebulaChainSystem/blob/main/image/hd_logo.png" alt="Logo" width="100">
+      <img src="https://github.com/BernieMacMillan/NebulaChainSystem/blob/main/image/hd_logo.png" alt="Logo" width="100">
     </td>
     <td align="center">
       <img src="https://github.com/BernieMacMillan/NebulaChainSystem/blob/main/image/antpool.png" alt="Logo" width="100">
