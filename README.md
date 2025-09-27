@@ -30,7 +30,7 @@
   <a href="https://berniemacmillan.gitbook.io/berniemacmillan/lian-xi-wo-men">免费定制</a>
 </p>
 
-<img src="./image/NebulaChainSystem.png" alt="Logo">
+<img src="https://github.com/BernieMacMillan/NebulaChainSystem/blob/main/image/NebulaChainSystem.png" alt="Logo">
 
 ## NebulaChainSystem
 > [!TIP]
@@ -175,16 +175,16 @@ bash <(curl -s -L https://github.com/BernieMacMillan/NebulaChainSystem/raw/main/
 <table>
   <tr>
     <td align="center">
-      <img src="./image/icon-logo-blue.png" alt="Logo" width="100">
+      <img src="https://github.com/BernieMacMillan/NebulaChainSystem/blob/main/image/icon-logo-blue.png" alt="Logo" width="100">
     </td>
     <td align="center">
-      <img src="./image/poolin.svg" alt="Logo" width="100">
+      <img src="https://github.com/BernieMacMillan/NebulaChainSystem/blob/main/image/poolin.svg" alt="Logo" width="100">
     </td>
     <td align="center">
-      <img src="./image/hd_logo.png" alt="Logo" width="100">
+      <img src=".https://github.com/BernieMacMillan/NebulaChainSystem/blob/main/image/hd_logo.png" alt="Logo" width="100">
     </td>
     <td align="center">
-      <img src="./image/antpool.png" alt="Logo" width="100">
+      <img src="https://github.com/BernieMacMillan/NebulaChainSystem/blob/main/image/antpool.png" alt="Logo" width="100">
     </td>
   </tr>
 </table>
